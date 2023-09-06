@@ -1,9 +1,6 @@
 # answerPDF
 Harnessing Vector Database and ChatGPT intuitive document analysis 
 
-![High level workflow](./aveoneDocGPT.png)
-
-
 Create .env file with following variables
 ```
 OPENAI_API_KEY=
